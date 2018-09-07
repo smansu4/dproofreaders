@@ -1,1 +1,0 @@
-plain [** user note 1] [** user note [=a] 2] text
